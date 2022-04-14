@@ -1,5 +1,9 @@
 # Change Log
 
+## [4.0.2]
+
+- Nothing changed but Unfortunately, I submitted the wrong version when updating the plugin, and in order to avoid any problems in the future, the next updates will have to continue from version 4.0.x. I apologize for this
+
 ## [0.4.2]
 
 - Fixed some inconsistencies
