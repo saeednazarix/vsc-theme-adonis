@@ -1,0 +1,76 @@
+{
+    "name": "adonis-theme",
+    "displayName": "Adonis Theme",
+    "description": "A beautiful yet easy on the eyes theme for VSCode with 7 color variants",
+    "version": "0.4.2",
+    "publisher": "saeed-nazari",
+    "author": {
+        "name": "Saeed Nazari",
+        "email": "saeed.x.nazari@gmail.com"
+    },
+    "license": "MIT",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "homepage": "https://github.com/saeed-nazari/vsc-theme-adonis",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/saeed-nazari/vsc-theme-adonis"
+    },
+    "bugs": {
+        "url": "https://github.com/saeed-nazari/vsc-theme-adonis/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "adonis",
+        "adonis theme",
+        "Haze",
+        "Mirage",
+        "Palenight",
+        "Gunmetal"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Adonis Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Dark-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Darker-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Haze-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Mirage-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Palenight-color-theme.json"
+            },
+            {
+                "label": "Adonis Theme Gunmetal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Theme Gunmetal-color-theme.json"
+            }
+        ]
+    }
+}

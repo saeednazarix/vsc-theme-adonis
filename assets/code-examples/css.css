@@ -1,0 +1,30 @@
+:root {
+    --sn_posCenter: 200, 200, 200;
+    --sn_navColor: 255, 255, 255;
+}
+body > li {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: var(--sn_posCenter);
+}
+.snNavBar_secondary::after {
+  content: "";
+  position: absolute;
+  border: 1px solid rgb( var(--sn_navColor) );
+  pointer-events: none;
+  display: block !important;
+}
+#sn_breadcrumb {
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 15px;
+    border-radius: 4px 0 0 4px;
+}
+@media screen and (max-width: 767px) {
+    .cClubCard .snPageHead_special {
+        background-size: cover;
+        background-position: bottom;
+    }
+}
+
