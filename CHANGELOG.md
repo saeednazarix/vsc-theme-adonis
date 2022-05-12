@@ -1,4 +1,11 @@
 # Change Log
+## [5.0.0]
+- Added Light Color Scheme
+- Added "Adonis+" variants to each color scheme
+  - In "+" versions, tags and operators' colors changed to red
+- Improved colors contrast
+- Added color for object's keys
+- Fixed some inconsistencies
 
 ## [4.0.2]
 
