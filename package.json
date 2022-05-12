@@ -1,8 +1,8 @@
 {
     "name": "adonis-theme",
     "displayName": "Adonis Theme",
-    "description": "A beautiful yet easy on the eyes theme for VSCode with 7 color variants",
-    "version": "4.0.2",
+    "description": "A beautiful yet easy on the eyes theme for VSCode with 14 variants",
+    "version": "5.0.0",
     "publisher": "saeed-nazari",
     "author": {
         "name": "Saeed Nazari",
@@ -26,9 +26,9 @@
     ],
     "keywords": [
         "theme",
+        "light",
         "dark",
-        "adonis",
-        "adonis theme",
+        "Adonis",
         "Haze",
         "Mirage",
         "Palenight",
@@ -37,39 +37,84 @@
     "contributes": {
         "themes": [
             {
-                "label": "Adonis Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme-color-theme.json"
+                "label": "Adonis Light",
+                "uiTheme": "vs",
+                "path": "./themes/Adonis Light-color-theme.json"
             },
             {
-                "label": "Adonis Theme Dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Dark-color-theme.json"
+                "label": "Adonis+ Light",
+                "uiTheme": "vs",
+                "path": "./themes/Adonis+ Light-color-theme.json"
             },
             {
-                "label": "Adonis Theme Darker",
+                "label": "Adonis",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Darker-color-theme.json"
+                "path": "./themes/Adonis-color-theme.json"
             },
             {
-                "label": "Adonis Theme Haze",
+                "label": "Adonis+",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Haze-color-theme.json"
+                "path": "./themes/Adonis+-color-theme.json"
             },
             {
-                "label": "Adonis Theme Mirage",
+                "label": "Adonis Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Mirage-color-theme.json"
+                "path": "./themes/Adonis Dark-color-theme.json"
             },
             {
-                "label": "Adonis Theme Palenight",
+                "label": "Adonis+ Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Palenight-color-theme.json"
+                "path": "./themes/Adonis+ Dark-color-theme.json"
             },
             {
-                "label": "Adonis Theme Gunmetal",
+                "label": "Adonis Darker",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Adonis Theme Gunmetal-color-theme.json"
+                "path": "./themes/Adonis Darker-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Darker-color-theme.json"
+            },
+            {
+                "label": "Adonis Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Haze-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Haze",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Haze-color-theme.json"
+            },
+            {
+                "label": "Adonis Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Mirage-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Mirage",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Mirage-color-theme.json"
+            },
+            {
+                "label": "Adonis Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Palenight-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Palenight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Palenight-color-theme.json"
+            },
+            {
+                "label": "Adonis Gunmetal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Gunmetal-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Gunmetal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Gunmetal-color-theme.json"
             }
         ]
     }
