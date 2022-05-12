@@ -834,7 +834,7 @@
 				"variable.other.property",
 			],
 			"settings": {
-				"foreground": "#C5D8EB" // #C5D8EB
+				"foreground": "#BCCFE6" // #BCCFE6
 			}
 		},
 	],
@@ -844,7 +844,7 @@
 		"stringLiteral":"#EDCB66",
 		"customLiteral": "#9DD274",
 		"numberLiteral": "#EE96D7",
-		"property.declaration": "#C5D8EB", // #C5D8EB
+		"property.declaration": "#BCCFE6", // #BCCFE6
 	},
 
 	"colors": {
