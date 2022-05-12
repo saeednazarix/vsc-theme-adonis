@@ -1,5 +1,5 @@
 {
-	"name": "Adonis Theme",
+	"name": "Adonis",
 	"semanticHighlighting": true,
 	"tokenColors": [
 		{
@@ -916,7 +916,7 @@
 		"tab.activeBorderTop": "#72CCE9",
 		"tab.border": "#1d2025",
 		"tab.inactiveForeground": "#919499",
-		"editor.background": "#202124",
+		"editor.background": "#272a2f",
 		"editor.foreground": "#CCCCCC",
 		"editorLineNumber.activeForeground": "#CCCCCC",
 		"editorLineNumber.foreground": "#495162",
