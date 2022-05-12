@@ -841,7 +841,7 @@
 			],
 
 			"settings": {
-				"foreground": "#ACBDDA" // #ACBDDA
+				"foreground": "#C5D8EB" // #C5D8EB
 			}
 		},
 		
@@ -852,7 +852,7 @@
 		"stringLiteral":"#EDCB66",
 		"customLiteral": "#9DD274",
 		"numberLiteral": "#EE96D7",
-		"property.declaration": "#ACBDDA", // #ACBDDA
+		"property.declaration": "#C5D8EB", // #C5D8EB
 	},
 
 	"colors": {
