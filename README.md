@@ -1,18 +1,40 @@
 # Adonis Theme for VSCode
 
-A beautiful yet easy on the eyes theme for VSCode with 7 color variants
+A beautiful yet easy on the eyes theme for VSCode with 16 color variants 
 
-## Variants
+## List of 16 color schemes:
 
-- Adonis
+### Light Color Schemes:
+
+- Adonis Light
+- Adonis+ Light
+
+### Dark Color Schemes:
+
+- Adonis 
 - Adonis Dark
 - Adonis Darker
+- Adonis Gunmetal
 - Adonis Haze
 - Adonis Mirage
 - Adonis Palenight
-- Adonis Gunmetal
+
+- Adonis+
+- Adonis+ Dark
+- Adonis+ Darker
+- Adonis+ Haze
+- Adonis+ Mirage
+- Adonis+ Gunmetal
+- Adonis+ Palenight
+
+### About **Adonis+** Variants :
+
+  - In Adonis+ variants, the *color* of **tags** and **operators** was changed to **red**.
 
 ## Screenshots
+
+### Adonis+
+![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis+/javascript.png)
 
 ### Adonis
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis/javascript.png)
@@ -34,6 +56,10 @@ A beautiful yet easy on the eyes theme for VSCode with 7 color variants
 
 ### Adonis Gunmetal
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-gunmetal/javascript.png)
+
+### Adonis Light
+![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-light/javascript.png)
+
 
 ### [More screenshots](https://github.com/saeed-nazari/vsc-theme-adonis/tree/main/assets/screenshots)
 
