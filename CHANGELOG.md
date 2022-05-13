@@ -1,5 +1,8 @@
 # Change Log
 
+## [5.0.2]
+- Improved Object's keys color contrast
+
 ## [5.0.1]
 - Update README.md and package.json
 
