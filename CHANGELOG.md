@@ -1,4 +1,8 @@
 # Change Log
+
+## [5.0.1]
+- Update README.md and package.json
+
 ## [5.0.0]
 - Added Light Color Scheme
 - Added "Adonis+" variants to each color scheme
