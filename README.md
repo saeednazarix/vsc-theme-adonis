@@ -30,11 +30,11 @@ A beautiful yet easy on the eyes theme for VSCode with 16 color variants
 
 ## Screenshots
 
-### Adonis
-![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis/javascript.png)
-
 ### Adonis+
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis+/javascript.png)
+
+### Adonis
+![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis/javascript.png)
 
 ### Adonis Dark
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-dark/javascript.png)
