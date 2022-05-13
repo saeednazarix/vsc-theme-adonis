@@ -5,12 +5,10 @@ A beautiful yet easy on the eyes theme for VSCode with 16 color variants
 ## List of 16 color schemes:
 
 ### Light:
-
 - Adonis Light
 - Adonis+ Light
 
 ### Dark:
-
 - Adonis 
 - Adonis Dark
 - Adonis Darker
@@ -18,8 +16,6 @@ A beautiful yet easy on the eyes theme for VSCode with 16 color variants
 - Adonis Haze
 - Adonis Mirage
 - Adonis Palenight
-
-
 - Adonis+
 - Adonis+ Dark
 - Adonis+ Darker
