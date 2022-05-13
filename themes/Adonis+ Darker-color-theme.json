@@ -70,7 +70,7 @@
 			"name": "Tag name",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#FE7184" // #B392F0
+				"foreground": "#FF7A90" // #B392F0
 			}
 		},
 		{
@@ -102,7 +102,7 @@
 			"name": "CSS Tag name",
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#FE7184" // #B392F0
+				"foreground": "#FF7A90" // #B392F0
 			}
 		},
 		
@@ -170,7 +170,7 @@
 				"keyword.other.important.scss"
 			],
 			"settings": {
-				"foreground": "#B392F0" // #FE7184
+				"foreground": "#B392F0" // #FF7A90
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FE7184" // Purple-#B392F0
+				"foreground": "#FF7A90" // Purple-#B392F0
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"name": "Keyword Operator",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#FE7184" // #9bbad4 or #B392F0 or #FE7184
+				"foreground": "#FF7A90" // #9bbad4 or #B392F0 or #FF7A90
 			}
 		},
 		{
@@ -565,7 +565,7 @@
 				"storage.type.function.arrow"
 			],
 			"settings": {
-				"foreground": "#FE7184" // #B392F0 , #FE7184
+				"foreground": "#FF7A90" // #B392F0 , #FF7A90
 			}
 		},
 		{
@@ -702,7 +702,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#FE7184"
+				"foreground": "#FF7A90"
 			}
 		},
 		{
@@ -805,7 +805,7 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#FE7184" //#DCDCAA
+				"foreground": "#FF7A90" //#DCDCAA
 			}
 		},
 		{
@@ -848,7 +848,7 @@
 	],
 		
 	"semanticTokenColors": {
-		"newOperator":"#FE7184",
+		"newOperator":"#FF7A90",
 		"stringLiteral":"#EDCB66",
 		"customLiteral": "#9DD274",
 		"numberLiteral": "#EE96D7",
