@@ -1,5 +1,8 @@
 # Change Log
 
+## [5.0.4]
+- Improved colors contrast
+
 ## [5.0.3]
 - Improved colors contrast
 
