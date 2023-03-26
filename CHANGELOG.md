@@ -1,5 +1,9 @@
 # Change Log
 
+## [5.1.0]
+- Added Eclipse and Eclipse+ Color Schemes
+- Fixed some inconsistencies
+
 ## [5.0.4]
 - Improved colors contrast
 
