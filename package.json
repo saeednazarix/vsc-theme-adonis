@@ -1,8 +1,8 @@
 {
     "name": "adonis-theme",
     "displayName": "Adonis Theme",
-    "description": "A beautiful yet easy on the eyes theme for VSCode with 16 variants",
-    "version": "5.0.4",
+    "description": "A beautiful yet easy on the eyes theme for developers with 18 variants",
+    "version": "5.1.0",
     "publisher": "saeed-nazari",
     "author": {
         "name": "Saeed Nazari",
@@ -75,6 +75,16 @@
                 "label": "Adonis+ Darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Adonis+ Darker-color-theme.json"
+            },
+            {
+                "label": "Adonis Eclipse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis Eclipse-color-theme.json"
+            },
+            {
+                "label": "Adonis+ Eclipse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Adonis+ Eclipse-color-theme.json"
             },
             {
                 "label": "Adonis Haze",
