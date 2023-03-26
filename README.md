@@ -32,12 +32,15 @@ A beautiful yet easy on the eyes theme for developers with 18 color variants
 
 ## Screenshots
 
+### Adonis Light
+![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-light/javascript.png)
+
 ### Adonis Eclipse (with bracket pair colorization)
 
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-eclipse/javascript.png)
 
 ### Adonis+ Eclipse (with bracket pair colorization)
-![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis+Eclipse/javascript.png)
+![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis+eclipse/javascript.png)
 
 ### Adonis
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis/javascript.png)
@@ -60,8 +63,6 @@ A beautiful yet easy on the eyes theme for developers with 18 color variants
 ### Adonis Gunmetal
 ![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-gunmetal/javascript.png)
 
-### Adonis Light
-![Javascript](https://raw.githubusercontent.com/saeed-nazari/vsc-theme-adonis/main/assets/screenshots/adonis-light/javascript.png)
 
 
 ### [More screenshots](https://github.com/saeed-nazari/vsc-theme-adonis/tree/main/assets/screenshots)
