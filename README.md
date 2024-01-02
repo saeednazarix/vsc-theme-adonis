@@ -2,7 +2,7 @@
 
 A beautiful yet easy on the eyes theme for developers with 18 color variants 
 
-## List of 16 color variants:
+## List of 18 color variants:
 
 ### Light:
 - Adonis Light
